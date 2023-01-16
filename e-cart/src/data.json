@@ -1,0 +1,66 @@
+{
+    "products": [
+      {
+       
+        "currencyFormat": "$",
+        "id": 12,
+        "price": 10.9,
+        "sku": 12064273040195392,
+        "title": "Cat Tee Black T-Shirt"
+      },
+      {
+        "currencyFormat": "$",
+        "id": 13,
+        "price": 29.45,
+        "sku": 51498472915966370,
+        "title": "Dark Thug Blue-Navy T-Shirt"
+      },
+      {
+      
+        "currencyFormat": "$",
+        "id": 14,
+        "price": 9,
+        "sku": 10686354557628304,
+        "title": "Sphynx Tie Dye Wine T-Shirt"
+      },
+      {
+       
+        "currencyFormat": "$",
+        "id": 15,
+        "price": 14,
+        "sku": 11033926921508488,
+        "title": "Skuul"
+      },
+      {
+        "currencyFormat": "$",
+        "id": 11,
+        "price": 13.25,
+        "sku": 39876704341265610,
+        "title": "Wine Skul T-Shirt"
+      },
+      {
+       
+        "currencyFormat": "$",
+        "id": 0,
+        "price": 10.9,
+        "sku": 8552515751438644,
+        "title": "Cat Tee Black T-Shirt"
+      },
+      {
+ 
+        "currencyFormat": "$",
+        "id": 1,
+        "price": 10.9,
+        "sku": 18644119330491310,
+        "title": "Sphynx Tie Dye Grey T-Shirt"
+      },
+      {
+        "currencyFormat": "$",
+        "id": 2,
+        "price": 14.9,
+        "sku": 11854078013954528,
+        "title": "Danger Knife Grey"
+      }
+    ]
+  }
+  
